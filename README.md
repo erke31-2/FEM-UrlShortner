@@ -30,7 +30,7 @@ Users should be able to:
 
 ![](./public/screenshots/Screenshot%202023-06-22%20at%2022.41.02.png)
 ![](./public/screenshots/Screenshot%202023-06-22%20at%2022.42.03.png)
-![](./public/screenshots/Screenshot%202023-06-22%20at%2022.42.40.png)
+![](./public/screenshots/Screenshot%202023-06-22%20at%2023.03.42.png)
 ![](./public/screenshots/Screenshot%202023-06-22%20at%2022.50.25.png)
 
 
