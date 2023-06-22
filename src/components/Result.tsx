@@ -29,13 +29,13 @@ const Result: React.FC<ResultProps> = ({
   return (
     <div className="mt-6 bg-white rounded-lg flex flex-col md:flex-row md:items-center md:justify-between">
       <a
-        className="border-b border-Gray md:border-none p-4 truncate hover:underline"
+        className="border-b border-Gray md:border-none p-4 truncate hover:underline" target="_blank"
         href={originalLink}
       >
         {originalLink}
       </a>
       <div className="flex flex-col gap-2 p-4 md:flex-row md:items-center">
-        <a href={shortenLink} className="text-Cyan">
+        <a href={shortenLink} className="text-Cyan" target="_blank">
           {shortenLink}
         </a>
 
